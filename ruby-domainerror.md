@@ -20,7 +20,7 @@ Math.acos(42)
 Math::DomainError: อาร์กิวเมนต์ตัวเลขอยู่นอกโดเมน - "acos"
 ```
 
-{% include ".gitbook/includes/line.md" %}
+***
 
 ### C
 
@@ -89,7 +89,7 @@ Invalid value
 Valid value
 ```
 
-{% include ".gitbook/includes/line.md" %}
+***
 
 ### Java
 
@@ -116,7 +116,7 @@ Exception in thread "main" java.lang.IllegalArgumentException: Input must be >= 
 at Erf.main(Main.java:6)
 ```
 
-{% include ".gitbook/includes/line.md" %}
+***
 
 ### Python
 
