@@ -13,6 +13,6 @@
   * [P07.Root Functions](ruby-math-methods-and-example/p07.root-functions.md)
   * [P08.Error Functions](ruby-math-methods-and-example/p08.error-functions.md)
   * [P09.Gamma Functions](ruby-math-methods-and-example/p09.gamma-functions.md)
-  * [P10.Hypotenuse Function](ruby-math-methods-and-example/p.10hypotenuse-function.md)
+  * [P10.Hypotenuse Function](ruby-math-methods-and-example/p10.hypotenuse-function.md)
 * [Ruby DomainError](ruby-domainerror.md)
 * [References](references.md)
