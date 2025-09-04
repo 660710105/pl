@@ -20,7 +20,7 @@ Python
 
 > Python Software Foundation. (2025, September 2). _math — Mathematical functions_. Retrieved from [https://docs.python.org/3/library/math.html](https://docs.python.org/3/library/math.html)
 
-{% include ".gitbook/includes/line.md" %}
+***
 
 ## ค่าคงที่ทางคณิตศาสตร์
 
@@ -56,7 +56,7 @@ Python
 
 [https://docs.python.org/3/library/math.html#special-functions](https://docs.python.org/3/library/math.html#special-functions)
 
-{% include ".gitbook/includes/line.md" %}
+***
 
 ## ฟังก์ชันทางคณิตศาสตร์
 
@@ -107,7 +107,7 @@ Python
 
 [https://docs.python.org/3/library/math.html#special-functions](https://docs.python.org/3/library/math.html#special-functions)
 
-{% include ".gitbook/includes/line.md" %}
+***
 
 ## ข้อผิดพลาดของโดเมน
 
