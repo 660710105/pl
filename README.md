@@ -19,7 +19,7 @@
   * [p07.root-functions.md](ruby-math-methods-and-example/p07.root-functions.md "mention")
   * [p08.error-functions.md](ruby-math-methods-and-example/p08.error-functions.md "mention")
   * [p09.gamma-functions.md](ruby-math-methods-and-example/p09.gamma-functions.md "mention")
-  * [p.10hypotenuse-function.md](ruby-math-methods-and-example/p.10hypotenuse-function.md "mention")
+  * [p10.hypotenuse-function.md](ruby-math-methods-and-example/p10.hypotenuse-function.md "mention")
 * ข้อผิดพลาดโดเมนคณิตศาสตร์
 * [ruby-domainerror.md](ruby-domainerror.md "mention")
 
