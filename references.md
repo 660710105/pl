@@ -1,7 +1,5 @@
 # References
 
-แหล่งอ้างอิง
-
 ## การเพิ่มโมดูลคณิตศาสตร์ในภาษาต่าง ๆ
 
 Ruby
@@ -52,9 +50,9 @@ Java
 
 Python
 
-[https://www.geeksforgeeks.org/python/constants-of-maths-in-python/](https://www.geeksforgeeks.org/python/constants-of-maths-in-python/)
+> GeeksforGeeks. (2025, July 12). _Constants of Maths in Python._ Retrieved from [https://www.geeksforgeeks.org/python/constants-of-maths-in-python/](https://www.geeksforgeeks.org/python/constants-of-maths-in-python/)
 
-[https://docs.python.org/3/library/math.html#special-functions](https://docs.python.org/3/library/math.html#special-functions)
+> Python Software Foundation (2025, September 3). _math — Mathematical functions_. Retrieved from [https://docs.python.org/3/library/math.html](https://docs.python.org/3/library/math.html)
 
 ***
 
@@ -86,26 +84,25 @@ Java
 
 > Oracle. (2025, July 14). _Class Math_. Retrieved from [https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Math.html](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Math.html)
 
-[https://www.w3schools.com/java/java\_ref\_math.asp](https://www.w3schools.com/java/java_ref_math.asp)
+> W3schools. (n.d.). _Java Math Methods._ Retrieved from  [https://www.w3schools.com/java/java\_ref\_math.asp](https://www.w3schools.com/java/java_ref_math.asp)
 
-[http://geeksforgeeks.org/java/java-math-class/](http://geeksforgeeks.org/java/java-math-class/)
+> GeeksforGeeks. (2025, July 23). _Java Math Class._ Retrieved from [http://geeksforgeeks.org/java/java-math-class/](http://geeksforgeeks.org/java/java-math-class/)
 
-Geekster. (). Math Class In Java[https://www.geekster.in/articles/math-class-in-java/](https://www.geekster.in/articles/math-class-in-java/)
+> Geekster. (n.d.). _Math Class In Java_. Retrieved from [https://www.geekster.in/articles/math-class-in-java/](https://www.geekster.in/articles/math-class-in-java/)
 
-* [Aug 28 2025](https://mathworld.wolfram.com/whatsnew/) Wolfram Inverse Hyperbolic Functions
-  * Eric Weisstein
+> Weisstein, E. (2025, August 28). _Inverse Hyperbolic Functions._ Wolfram. Retrieved from [https://mathworld.wolfram.com/InverseHyperbolicFunctions.html](https://mathworld.wolfram.com/InverseHyperbolicFunctions.html)
 
-[https://mathworld.wolfram.com/InverseHyperbolicFunctions.html](https://mathworld.wolfram.com/InverseHyperbolicFunctions.html)
+> Maven Central. (2014). _commons-math3_. Retrieved from [https://central.sonatype.com/artifact/org.apache.commons/commons-math3?smo=true](https://central.sonatype.com/artifact/org.apache.commons/commons-math3?smo=true)
 
-[https://central.sonatype.com/artifact/org.apache.commons/commons-math3?smo=true](https://central.sonatype.com/artifact/org.apache.commons/commons-math3?smo=true)
+> Oracle. (n.d.). _Class Gamma._ Retrieved from [https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/org/apache/commons/math3/special/Gamma.html](https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/org/apache/commons/math3/special/Gamma.html)
 
-[https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/org/apache/commons/math3/special/Gamma.html](https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/org/apache/commons/math3/special/Gamma.html)
+> Oracle. (n.d.). _Class Erf._ Retrieved from [https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/org/apache/commons/math3/special/Erf.html](https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/org/apache/commons/math3/special/Erf.html)
 
 Python
 
-[https://www.w3schools.com/python/module\_math.asp](https://www.w3schools.com/python/module_math.asp)
+> W3schools. (n.d.). _Python math Module._ Retrieved from [https://www.w3schools.com/python/module\_math.asp](https://www.w3schools.com/python/module_math.asp)
 
-[https://docs.python.org/3/library/math.html#special-functions](https://docs.python.org/3/library/math.html#special-functions)
+> Python Software Foundation (2025, September 3). _math — Mathematical functions_. Retrieved from [https://docs.python.org/3/library/math.html](https://docs.python.org/3/library/math.html)
 
 ***
 
@@ -131,12 +128,12 @@ Java
 
 > Oracle. (2025, July 14). _Class Math_. Retrieved from [https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Math.html](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Math.html)
 
-> Oracle. (). Retrieved from [https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html)
+> Oracle. (2025, July 14). _Class IllegalArgumentException_. Retrieved from [https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html)
 
 Python
 
-[https://www.digitalocean.com/community/tutorials/python-valueerror-exception-handling-examples](https://www.digitalocean.com/community/tutorials/python-valueerror-exception-handling-examples)
+> Pankaj Kumar.(2022, August 4). _Python ValueError Exception Handling Examples_. DigitalOcean. Retrieved from [https://www.digitalocean.com/community/tutorials/python-valueerror-exception-handling-examples](https://www.digitalocean.com/community/tutorials/python-valueerror-exception-handling-examples)
 
-[https://realpython.com/ref/builtin-exceptions/valueerror/](https://realpython.com/ref/builtin-exceptions/valueerror/)
+> Ramos, L,  P. (2025, March 3). _ValueError_. RealPython. Retrieved from [https://realpython.com/ref/builtin-exceptions/valueerror/](https://realpython.com/ref/builtin-exceptions/valueerror/)
 
-[https://docs.python.org/3/library/exceptions.html#ValueError](https://docs.python.org/3/library/exceptions.html#ValueError)
+> Python Software Foundation (2025, September 3). _Built-in Exceptions_. Retrieved from[https://docs.python.org/3/library/exceptions.html#ValueError](https://docs.python.org/3/library/exceptions.html#ValueError)
